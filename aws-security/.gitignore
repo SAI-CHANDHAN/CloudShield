@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*accessKeys*.csv
+*credentials*.csv
+
+# IDE
+.vscode/
+.idea/

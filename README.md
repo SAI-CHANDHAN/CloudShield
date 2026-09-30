@@ -17,6 +17,4 @@ AWS Resource Discovery -> CSPM Security Scan -> Findings -> Risk Score -> React 
 
 Keep `main` stable. Work in feature branches and merge through pull requests.
 
-## Demo target
 
-29 September 2026
